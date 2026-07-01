@@ -1,0 +1,169 @@
+canonical_identifier: bkk:krp/KR6v0359/v1
+canonical_location: https://kanripo.org/bkk/KR6v0359/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 頗哇心要轉識自在法
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0060.xml
+    old_id: B10n0060
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0359_000.yaml, hash: 'sha256:56fa56d23529df23f927b9bb722f85803b2f0ebb004b9bfe53a42af1d9d5d311'}
+  - {seq: 1, filename: KR6v0359_001.yaml, hash: 'sha256:ec7fb7b9a0ae32343e7ec97005fad5c8341cb6c303ddf2ec57d60838bad2d540'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0359_001.markers.yaml, hash: 'sha256:b93c91dce69e5d649bc1d6036f0297938c4c8c427ae9e650b353a5902575a031'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 4334
+  label: 頗哇心要轉識自在法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-1
+    span:
+    - body
+    - 55
+    - 55
+  label: 第一章　頗哇心要轉識自在恒修法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-2
+    span:
+    - body
+    - 69
+    - 69
+  label: 皈敬法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-3
+    span:
+    - body
+    - 411
+    - 411
+  label: 祈禱偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-4
+    span:
+    - body
+    - 676
+    - 676
+  label: 發願偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-5
+    span:
+    - body
+    - 782
+    - 782
+  label: 本尊瑜伽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-6
+    span:
+    - body
+    - 947
+    - 947
+  label: 金剛扎格尼及上師瑜伽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-7
+    span:
+    - body
+    - 1999
+    - 1999
+  label: 原書短跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-8
+    span:
+    - body
+    - 2399
+    - 2399
+  label: 第二章　頗哇心要轉識自在度亡法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-9
+    span:
+    - body
+    - 2433
+    - 2433
+  label: 初級成就瑜伽士所作之度亡法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-10
+    span:
+    - body
+    - 3039
+    - 3039
+  label: 中級成就瑜伽士所作之度亡法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-11
+    span:
+    - body
+    - 3241
+    - 3241
+  label: 高級成就瑜伽士所作之度亡法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-12
+    span:
+    - body
+    - 3521
+    - 3521
+  label: 原書短跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0359_B_001-mulu-13
+    span:
+    - body
+    - 3632
+    - 3632
+  label: 第三章　本尊上師聖相莊嚴觀
+  type: mulu
+  level: 1
+hash: sha256:fbce5e3e8b353910d30f56944818e33800fd417cb520f709d08224cbd68066a9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

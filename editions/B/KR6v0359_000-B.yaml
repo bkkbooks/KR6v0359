@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0359/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頗哇心要轉識自在法
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0060.xml
+    old_id: B10n0060
+hash: sha256:56fa56d23529df23f927b9bb722f85803b2f0ebb004b9bfe53a42af1d9d5d311
