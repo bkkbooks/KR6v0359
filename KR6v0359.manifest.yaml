@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0359_000.yaml, hash: 'sha256:56fa56d23529df23f927b9bb722f85803b2f0ebb004b9bfe53a42af1d9d5d311'}
-  - {seq: 1, filename: KR6v0359_001.yaml, hash: 'sha256:ec7fb7b9a0ae32343e7ec97005fad5c8341cb6c303ddf2ec57d60838bad2d540'}
+  - {seq: 1, filename: KR6v0359_001.yaml, hash: 'sha256:141b3f74bd99367f15fee6f40823e085239970177ef282f2beb3ea942b6eca9d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0359_001.markers.yaml, hash: 'sha256:b93c91dce69e5d649bc1d6036f0297938c4c8c427ae9e650b353a5902575a031'}
+  - {seq: 0, role: markers, filename: assets/KR6v0359_000.markers.yaml, hash: 'sha256:d638f6a4bee7426d5aec0eeda7cea36b02f03e7e1e3968d422bf1b2998fd6eaf'}
+  - {seq: 1, role: markers, filename: assets/KR6v0359_001.markers.yaml, hash: 'sha256:7e68c470bf9413b4f819e56ce2011dcd08074b8ab0ef4bec3f3799de5b8506ce'}
 table_of_contents:
 - ref:
     seq: 1
@@ -163,7 +164,4 @@ table_of_contents:
   label: 第三章　本尊上師聖相莊嚴觀
   type: mulu
   level: 1
-hash: sha256:fbce5e3e8b353910d30f56944818e33800fd417cb520f709d08224cbd68066a9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f159d2ee1de20703224c84b8171e77b34be84c59140eb4a817213429d32373de
